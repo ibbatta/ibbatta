@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am Maurizio, a professional `swimmer`, `nerd`, `gamer` & `developer` (specialized in Front-end). — I have written “hello world” in 200 different ways.
+
 <!--
 **ibbatta/ibbatta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
