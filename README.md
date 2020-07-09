@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 I am Maurizio, a professional `swimmer`, `nerd`, `gamer` & `developer` (specialized in Front-end).
+<br>
 — I have written “hello world” in 200 different ways.
 
 <!--
