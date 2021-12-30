@@ -4,9 +4,13 @@ I am Maurizio, a professional `swimmer`, `nerd`, `gamer` & `developer` (speciali
 <br/>
 — I have written “hello world” in 200 different ways.
 
+|📫 How to reach me|🔭 I’m currently working on|🌱 I’m currently learning|
+|:-------|:----------:|:----------|
+|[Twitter](https://twitter.com/battago)<br/>[Instagram](https://twitter.com/ibbatta)</br>[Telegram](https://t.me/ibbatta)| _empty string_ | C#</br>Game development with Unity</br>Microservices with Node and React
+
 ---
 
-| This is my personal repo collections |
+| These are my personal repo collections |
 |:----------|
 | [⭐ My best projects](https://github.com/stars/ibbatta/lists/my-best-projects) |
 | [📚 Study projects](https://github.com/stars/ibbatta/lists/study-projects) |
@@ -14,22 +18,6 @@ I am Maurizio, a professional `swimmer`, `nerd`, `gamer` & `developer` (speciali
 | [📄 memorandum / useful](https://github.com/stars/ibbatta/lists/memorandum-useful) |
 
 ---
-
-- 🔭 I’m currently working on:
-  - **nothing**
-<br/>
-
-- 🌱 I’m currently learning:
-  - **C#**
-  - **Game development with Unity**
-  - **Microservices with Node and React**
-<br/>
-
-- 📫 How to reach me:
-  - [Twitter](https://twitter.com/battago)
-  - [Instagram](https://twitter.com/ibbatta)
-  - [Telegram](https://t.me/ibbatta)
-<br/>
 
 - ⚡ Fun facts: _Do developers have fun facts?_
 
