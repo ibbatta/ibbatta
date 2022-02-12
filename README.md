@@ -6,7 +6,7 @@ I am Maurizio, a professional `swimmer`, `nerd`, `gamer` & `developer` (speciali
 
 |📫 How to reach me|🔭 I’m currently working on|🌱 I’m currently learning|
 |:-------|:----------:|:----------|
-|[Twitter](https://twitter.com/battago)<br/>[Instagram](https://twitter.com/ibbatta)</br>[Telegram](https://t.me/ibbatta)| _empty string_ | C#</br>Game development with Unity</br>Microservices with Node and React
+|[Twitter](https://twitter.com/battago)<br/>[Instagram](https://twitter.com/ibbatta)</br>[Telegram](https://t.me/ibbatta)| _nothing_ | C#</br>Game development with Unity</br>Microservices with Node and React
 
 ---
 
