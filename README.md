@@ -15,7 +15,7 @@ I am Maurizio, a professional `swimmer`, `nerd`, `gamer` & `developer` (speciali
 | [⭐ My best projects](https://github.com/stars/ibbatta/lists/my-best-projects) |
 | [📚 Study projects](https://github.com/stars/ibbatta/lists/study-projects) |
 | [⚙️ Templates](https://github.com/stars/ibbatta/lists/templates) |
-| [📄 memorandum / useful](https://github.com/stars/ibbatta/lists/memorandum-useful) |
+| [📄 Memorandum / Useful](https://github.com/stars/ibbatta/lists/memorandum-useful) |
 
 ---
 
