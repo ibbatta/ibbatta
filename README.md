@@ -19,10 +19,12 @@ I am Maurizio, a professional `swimmer`, `nerd`, `gamer` & `developer` (speciali
 
 ---
 
-- ⚡ Fun facts: _Do developers have fun facts?_
+[![@ibbatta's Holopin board](https://holopin.io/api/user/board?user=ibbatta)](https://holopin.io/@ibbatta)
 
 
 <!--
+- ⚡ Fun facts: _Do developers have fun facts?_
+
 **ibbatta/ibbatta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
