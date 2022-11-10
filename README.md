@@ -4,7 +4,7 @@ I am Maurizio, a professional `swimmer`, `nerd`, `gamer` & `developer` (speciali
 <br/>
 — I have written “hello world” in 200 different ways.
 
-|📫 How to reach me|🔭 I’m currently working on|🌱 I’m currently learning|
+|📫 How to reach me |⚗️ I’m currently working on... |🌱 I’m currently learning... |
 |:-------|:----------|:----------|
 |[Twitter](https://twitter.com/battago)<br/>[Instagram](https://twitter.com/ibbatta)</br>[Telegram](https://t.me/ibbatta) | Creation of a personal game <br> Moneytracking app (web + mobile) | Typescript <br> Node + React microservices <br> Docker + Kubernetes + Skaffold management |
 
