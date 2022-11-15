@@ -19,8 +19,15 @@ I am Maurizio, a professional `swimmer`, `nerd`, `gamer` & `developer` (speciali
 
 ---
 
-[![@ibbatta's Holopin board](https://holopin.io/api/user/board?user=ibbatta)](https://holopin.io/@ibbatta)
+### My stats 📊
 
+![Ibbatta's GitHub stats](https://github-readme-stats.vercel.app/api?username=ibbatta&theme=omni&show_icons=true)
+
+---
+
+### My achievements 🏆
+
+[![@ibbatta's Holopin board](https://holopin.io/api/user/board?user=ibbatta)](https://holopin.io/@ibbatta)
 
 <!--
 - ⚡ Fun facts: _Do developers have fun facts?_
