@@ -6,7 +6,7 @@ I am Maurizio, a professional `swimmer`, `nerd`, `gamer` & `developer` (speciali
 
 |📫 How to reach me |⚗️ I’m currently working on... |🌱 I’m currently learning... |
 |:-------|:----------|:----------|
-|[Twitter](https://twitter.com/battago)<br/>[Instagram](https://twitter.com/ibbatta)</br>[Telegram](https://t.me/ibbatta) | Creation of a personal game <br> Moneytracking app (web + mobile) | Typescript <br> Node + React microservices <br> Docker + Kubernetes + Skaffold management |
+|[Twitter](https://twitter.com/battago)<br/>[Instagram](https://twitter.com/ibbatta)</br>[Telegram](https://t.me/ibbatta) | Creation of a personal game <br> Personal projects | Typescript <br> Node + React microservices <br> Docker + Kubernetes + Skaffold management |
 
 ---
 
