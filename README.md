@@ -22,8 +22,10 @@ I am Maurizio, a professional `swimmer`, `nerd`, `gamer` & `developer` (speciali
 ---
 
 ### My stats 📊
+| Stats  | Contributions | Languages |
+| :---: | :---: | :---: |
+| <img width=400 src='https://github-readme-stats.vercel.app/api?username=ibbatta&theme=omni&show_icons=true&count_private=true' /> | <img width=400 src='https://github-readme-streak-stats.herokuapp.com/?user=ibbatta&theme=omni' /> | <img width=400 src='https://github-readme-stats.vercel.app/api/top-langs/?username=ibbatta&theme=omni&show_icons=true&layout=compact' /> |
 
-![My Github stats](https://github-readme-stats.vercel.app/api?username=ibbatta&theme=omni&show_icons=true)
 
 ---
 
