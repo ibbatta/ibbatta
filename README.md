@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I am Maurizio, a professional `swimmer`, `nerd`, `gamer` & `developer` (specialized in Front-end).
+I am Maurizio, a professional `developer`, `nerd`, `gamer` & `swimmer` (specialized in Front-end).
 <br/>
-— I have written “hello world” in 200 different ways.
+— _I have written “hello world” in 200 different ways._
 
 💻 This is my [Codepen profile](https://codepen.io/ibbatta/)
 
@@ -18,14 +18,6 @@ I am Maurizio, a professional `swimmer`, `nerd`, `gamer` & `developer` (speciali
 | [📚 Study projects](https://github.com/stars/ibbatta/lists/study-projects) |
 | [⚙️ Templates](https://github.com/stars/ibbatta/lists/templates) |
 | [📄 Memorandum / Useful](https://github.com/stars/ibbatta/lists/memorandum-useful) |
-
----
-
-### My stats 📊
-<img width=500 src='https://github-readme-stats.vercel.app/api?username=ibbatta&theme=omni&show_icons=true&count_private=true' />
-<img width=500 src='https://github-readme-streak-stats.herokuapp.com/?user=ibbatta&theme=omni' />
-<img width=500 src='https://github-readme-stats.vercel.app/api/top-langs/?username=ibbatta&theme=omni&show_icons=true&layout=compact' />
-
 
 ---
 
